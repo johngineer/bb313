@@ -5,6 +5,20 @@ blinky.asm written in AVRStudio4
 
 
 Project Description:
-The BB313 is a breadboard platform for the ATTiny2313/4313 microcontroller. It’s designed to make the prototyping process easier by providing a regulated 5V power supply, an AVR-ISP programming header, an FTDI-cable compatible 6-pin header, connections for an external ceramic resonator, and a reset button on the PCB, so you don’t need to wire those functions up on the breadboard. It breaks out most of the pins on the ATTiny to one side, so you have more breadboard space to work with. It also doubles as a target board for the 2313/4313 and, with a simple modification, the ATTiny25/45/85.
+The BB313 is a breadboard platform for the ATTiny2313/4313 microcontroller. 
+It’s designed to make the prototyping process easier by providing a regulated 
+5V power supply, an AVR-ISP programming header, an FTDI-cable compatible 
+6-pin header, connections for an external ceramic resonator, and a reset 
+button on the PCB, so you don’t need to wire those functions up on the 
+breadboard. It breaks out most of the pins on the ATTiny to one side, so you 
+have more breadboard space to work with. It also doubles as a target board for 
+the 2313/4313 and, with a simple modification, the ATTiny25/45/85.
 
-I created it because I use the Tiny2313 a lot, and I was tired of wiring up all of the above each time I wanted to work on a new circuit. Some things, like ISP headers and ceramic resonators, are not especially breadboard friendly. Further, I found that with larger projects breadboard space started to get a little cramped, and I wanted to maximize the prototyping area. By putting it all on a custom PCB, I save a lot of breadboard space and things are more straightforward. It also gives me a complete support platform that I can embed straight into a project.
+I created it because I use the Tiny2313 a lot, and I was tired of wiring up 
+all of the above each time I wanted to work on a new circuit. Some things, 
+like ISP headers and ceramic resonators, are not especially breadboard friendly. 
+Further, I found that with larger projects breadboard space started to get a 
+little cramped, and I wanted to maximize the prototyping area. By putting it 
+all on a custom PCB, I save a lot of breadboard space and things are more 
+straightforward. It also gives me a complete support platform that I can embed 
+straight into a project.
