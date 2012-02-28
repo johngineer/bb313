@@ -3,6 +3,9 @@ BB313, 2011 by J. M. De Cristofaro / johngineer
 Schematic and Board files designed in Eagle 5.6.1
 blinky.asm written in AVRStudio4
 
+Project page: www.johngineer.com/projects/bb313
+
+All design files are CC-BY-SA 3.0
 
 Project Description:
 The BB313 is a breadboard platform for the ATTiny2313/4313 microcontroller. 
